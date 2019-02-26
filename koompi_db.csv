@@ -1,0 +1,120 @@
+id,first_name,last_name,phone_no,email,order_amount,province,gray_color,rose_gold_color,money_order,payment_option,organization,messages,created_at
+1,Vuthy,SAN,015769941,san.vuthy08@gmail.com,2,PV,2,0,null,pi-pay,null,"",2018-08-28 05:28:15.970179
+2,Rithy,Thul,077504106,rithythul@gmail.com,3,Kd,2,1,null,pi-pay,null,Hi ,2018-08-28 06:42:58.256561
+3,Sivkheng,Yim,017444102,sivkhengyim@gmail.com,1,Phnom Penh,1,0,null,pi-pay,null,"It would be better to have a payment vai Visa Card. Anyways, you all do a great job. keep going.",2018-08-30 06:33:17.765573
+4,Sina,pok,0965111193,sinapok@gmail.com,1,PP,0,1,null,pi-pay,null,"",2018-08-31 09:47:56.03842
+5,sina,pok,0965111193,sinapok@gmail.com,2,pp,1,1,null,cash,null,"",2018-08-31 09:53:09.650424
+6,Hong,Hov,085533354,honghov@gmail.com,1,Phnom Penh,1,0,null,special-financing,null,Support all KHMER MADE. ^_^ M proud all of you.,2018-08-31 15:05:18.817143
+7,sopheak,moeurn,098775295,sopheakmoeurn95@gmail.com,1,Kandal,0,1,null,special-financing,null,Like,2018-09-01 02:51:57.253725
+8,Khemaraboth,Phonron,098500947,p.khemaraboth1@gmail.com,1,Phnom Penh,1,0,null,special-financing,null,"",2018-09-01 03:20:30.411872
+9,Vanna ,SEAN,010221939,sean.vanna123@gmail.com,1,Phnom Penh ,1,0,null,pi-pay,null,I would like to pay my pre-order on Wednesday 05th via PiPay. ,2018-09-01 06:57:42.460091
+10,Mey,Ponlork,012426641,meyponlork@gmail.com,1,Phnom Penh,0,1,money-back,cash,null,"",2018-09-01 08:55:01.130933
+11,samnanf,samnanf,092966604,samnangjulita99@gmail.com,1,Phnom Penh,0,1,null,special-financing,null,"",2018-09-01 10:12:51.136444
+12,Order 1 ,Duk Phon,012983523,dukphon@yahoo.com,01,Siem Reap,0,1,money-back,cash,null,I will pay when i get koompi.,2018-09-01 15:05:26.442021
+13,កៅ,សាលីម,012527262,greenhillartdesign@gmail.com,1,ភ្នំពេញ,1,0,money-forward,cash,pour-un-sourire-d'enfant,"I plan to use specific on graphic design. Any space or model recommend more 
+
+Software most run Adobe CC and illustration auto CAD 
+
+Tks you ",2018-09-02 06:22:40.175492
+14,Nhep,Chanlyra,0885582424,nhepchanlyra@gmail.com,1,Phnom penh,0,1,null,special-financing,null,"I have two choices if I am fail or rejecte from bank could I have to some deposit when u available stock I did full payment.
+Thanks,Lyra
+Tel: 0885582424",2018-09-02 06:40:10.832316
+15,Reach,Pisey,017897414,reachpisey9009@gmail.com,1,Phnom Penh,0,1,null,special-financing,null,"",2018-09-02 07:46:36.091546
+16,Chhuong,Yann,012679811,chhuongy@gmail.com,1,Phnom Penh,1,0,null,pi-pay,null,"",2018-09-03 01:42:34.853118
+17,SAN,Vuthy,015769941,san.vuthy08@gmail.com,1,PV ,1,0,null,pi-pay,null,Testing,2018-09-03 04:28:00.30688
+18,tho,rachana  ,089678000,rachana.tho@gmail.com,1,Phnom Penh,1,0,money-forward,cash,enfants-du-mekong,"Improve order flatform.
+",2018-09-06 07:12:01.464915
+19,Lim,HokEang,011236755,hokeangl01@gmail.com,1,Phnom Penh,0,1,null,pi-pay,null,"",2018-09-07 15:35:33.443039
+20,Hun ,Viraktath ,010922252,workhard2252@gmail.com,1,Phnon Penh ,0,1,null,special-financing,null,"First, time I start to use Khmer Computer. ",2018-09-07 16:53:18.605874
+21,Raksmey,Ven,086669424,ven.raksmey66@gmail.com,1,Phnom Penh,1,0,null,pi-pay,null,"",2018-09-08 06:00:54.606873
+22,Kevin,Ngo,016657548,ngo.kevin01@gmail.com,1,Phnom Penh ,1,0,money-forward,cash,pour-un-sourire-d'enfant,"",2018-09-08 11:11:34.157732
+23,Samphors,Nhem,089451027,chrism633nhem@gmail.com,1,Banteay Mean Chey,1,0,null,special-financing,null,"",2018-09-10 03:04:04.223144
+24,boukhermak,nop,092370502,nopboukhemrak@gmail.com,1,Phnom Penh,1,0,null,pi-pay,null,"I want to see more innovation by Cambodian people, Like Koompi ... so on, I am sure that it will be arrested my attention, thx u!",2018-09-10 10:44:09.211619
+25,Thaynaroth,Chuek,098337923,chuekthaynaroth@gmail.com,1,Phnompenh,1,0,null,pi-pay,null,"",2018-09-10 17:02:07.799328
+26,Kamaroudin,SOS,016998240,kamaroudin.sos@gmail.com,1,Phnom Penh,1,0,null,pi-pay,null,can i have an estimated date of delivery?,2018-09-12 09:07:35.581117
+27,Rithy,Kan,015715327,rithy_kan@hotmail.com,1,Phnom Penh,1,0,null,pi-pay,null,"",2018-09-12 09:59:39.843476
+28,ngov,sunhout,016666240,ngovsunhout168@yahoo.com,1,phnom penh,1,0,money-back,cash,null,"",2018-09-12 14:11:15.041965
+29,TOLA,VONG,089666383,myglobaltransactions@gmail.com,1,Phnom Penh,1,0,null,pi-pay,null,"",2018-09-13 02:56:37.34588
+30,Heng,Piseth,0962318188,hengpiseth113@gmail.com,1,Takeo,1,0,null,special-financing,null,"",2018-09-13 03:42:25.414904
+31,ra,a,0325666666,rak@gmail.com,1,r,1,0,null,pi-pay,null,1,2018-09-13 09:43:37.684701
+32,Ngov,Sunhout,016669240,pumpithout@gmail.com,1,Phnom penh,1,0,null,special-financing,null,"",2018-09-13 12:08:25.347969
+33,Sambath,Cheab,087336244,samcheab999@gmail.com,1,Phnom Penh,1,0,null,special-financing,null,No,2018-09-13 13:25:51.118654
+34,Sokna,Hem,070932692,soknahem99@gmail.com,1,Phnom Penh,0,1,null,pi-pay,null,"",2018-09-14 03:42:42.35749
+35,Vanel,Hay,012320760,vanelhay@gmail.com,1,Phnom penh,1,0,null,pi-pay,null,"",2018-09-15 17:04:31.079808
+36,Chanthy,Seab ,0969300673,seabchanthy@gmail.com,1,Phnom Penh ,1,0,null,pi-pay,null,"",2018-09-19 02:39:15.138197
+37,Monireth,Toy,017728895,monirethtoy@gmail.com,1,Phnom Penh,1,0,null,pi-pay,null,"Hi, I do not see the guaranty provide? ",2018-09-19 03:57:13.916597
+38,Virak ,Reingsey,077259260,ferliciajay@gmail.com,1,Phnom Penh,0,1,null,special-financing,null,give us a good one,2018-09-19 10:23:56.526194
+39,PHORN ,MEYCHING,0963874974,PHORNMEYCHING@gmail.com,1,Phnom Penh,0,1,null,pi-pay,null,"",2018-09-19 14:55:47.29853
+40,Sok,Kimsongheng,098455129,kimsonghengsok@gmail.com,1,Phnom Penh ,0,1,null,pi-pay,null,"please, inform the date of get this computer :))",2018-09-20 02:36:20.509092
+41,THIN,Lyhuot,015747784,thinlyhuot@yahoo.com,1,Phnom Penh,1,0,null,pi-pay,null,When can i fully pay money? And when can i get laptop? ,2018-09-20 06:20:15.833304
+42,Sopanha,Tan ,078779597,sopanhatan@yahoo.com,1,Phnom Penh,1,0,null,pi-pay,null,"",2018-09-20 12:22:42.100983
+43,Yem,Yem,0962715884,vannakh394@gmail.com,1,Battambang  ,1,0,null,special-financing,null,"",2018-09-20 14:40:53.451878
+44,Andrea Venanzio,Masseroni,00959979336416,mebacco@gmail.com,1,"Yangon, Myanmar",0,0,money-back,cash,null,"",2018-09-21 16:28:01.394795
+45,Soksophay,Lim,012824273,soksophay@gmail.com,1,Phnom Penh,1,0,null,pi-pay,null,Please contact me only during office hour,2018-09-21 17:02:03.914295
+46,Chandago,Tes,089555936,tes.chandago@cellcard.com.kh,1,Phnom Penh,0,1,null,pi-pay,null,Contact me when laptop arrived.,2018-09-22 04:08:00.546869
+47,Soeung,Kathvahan,015417293,thvahan@gmail.com,1,kandal,1,0,null,pi-pay,null,Hurry up wannna use it !,2018-09-22 04:39:17.862017
+48,Yim,Thol,086522678,jesdar2017@gmail.com,1,Phnom Penh,0,1,null,special-financing,null,I would advise you to more upgrade the hard ware system n speech. ,2018-09-22 05:30:17.465859
+49,Phorn,Sophea,0966889377,phyzikphyzik1999@gmail.com,1,Phnom penh,1,0,null,pi-pay,null,"",2018-09-23 05:35:31.985599
+50,Loeun,Heng,098787444,hengloeun@yahoo.com,1,phnom penh,0,1,null,pi-pay,null,"I like to check out your computer. Is there a shop that I can come to and check out your product?
+",2018-09-23 07:25:04.587036
+51,Yim ,Thol,086522678,jesdar2017@gmail.com,1,Phnom Penh,0,1,null,special-financing,null,Thx for a new mad of Khmer computer.,2018-09-23 17:33:28.013689
+52,Hor,Leanghout,0968118479,houthor096@gmail.com,1,Phnompenh,1,0,null,pi-pay,null,I hope KOOMPI can help my work and.....,2018-09-24 06:52:47.524065
+53,Phorn ,Sophea,0966889377,phyzikphyzik1999@gmail.com,1,Phnom penh,0,1,null,pi-pay,null,how to pay by pi pay?,2018-09-24 11:26:35.491253
+54,netra,netra,089723969,bunchantra7@gmail.com,1,Phnom penh ,0,1,null,pi-pay,null,"",2018-09-24 17:34:11.263372
+55,OUK,Putheary,098249689,honeytoch59@gmail.com,1,Phnom Penh,0,1,null,pi-pay,null,"",2018-09-25 07:52:35.785836
+56,Chanratanak,Soeun,098465776,chanratanakseoun@gmail.com,1,Kandal,0,1,null,pi-pay,null,"",2018-09-26 08:52:20.176121
+57,Taing,Kaing,089777369,kaingtaing@yahoo.com,-1,Phnom Penh,0,0,null,pi-pay,null,"",2018-09-28 01:11:28.979837
+58,Taing,Kaing,089777369,kaingtaing@yahoo.com,1,Phnom Penh,1,0,null,pi-pay,null,"",2018-09-28 01:12:28.144918
+59,Taing,Kaing,85589777369,kaingtaing@yahoo.com,1,Phnom Penh,1,0,null,pi-pay,null,When can I get it?,2018-09-28 01:13:35.264661
+60,Taing,Kaing,1,kaingtaing@yahoo.com,1,Phnom Penh,1,0,null,pi-pay,null,089777369,2018-09-28 01:15:16.668778
+61,Leangsiv,Han,098470261,yangyangsiv@gmail.com,1,Phnom penh,1,0,null,pi-pay,null,"",2018-09-29 08:00:08.722276
+62,Phay,Panha,077869059,panhaphay8@yahoo.com,1,Phnom Penh,1,0,null,pi-pay,null,No comment,2018-09-29 14:11:09.440478
+63,Seyha,Srun,017907199,srunseyha@yahoo.co.uk,1,Phnom Penh,1,0,null,pi-pay,null,"",2018-10-01 01:30:03.214259
+64,Choum ,SOPHENG,081481414,sophengchoum@gmail.com,1,Kratie,1,0,null,pi-pay,null,"",2018-10-01 02:43:47.057307
+65,Dalyn,Sngin,015670635,Dalynkemsngin02@gmail.com,1,Phnom Penh,1,0,null,pi-pay,null,"",2018-10-05 18:48:08.509992
+66,vimeth,Kim,077336375,vimeth.kim@gmail.com,1,Phnom phenh,0,1,null,special-financing,null,please big spec and long battery ,2018-10-06 07:50:37.079097
+67,Miu Ling ,Lee,092439264,918miuling@gmail.com,1,Phnom Penh ,1,0,null,pi-pay,null,"",2018-10-09 11:32:18.216422
+68,Ro,Sereyvathanak,0965555991,vathanak10@gmail.com,1,Phnom Penh,1,0,null,pi-pay,null,Nothing,2018-10-11 06:47:34.942189
+69,viseth,yin,85598333391,yinviseth@gmail.com,1,ratanakiri,1,0,null,pi-pay,null,"",2018-10-11 12:05:27.061597
+70,Vicheth,Chhouk,098843435,vicheth.chhouk@gmail.com,1,Phnom Penh,0,1,null,pi-pay,null,"",2018-10-12 04:43:06.812701
+71,Choem,Rath,0313003003,choemrath@gmail.com,1,Kandal,0,1,null,special-financing,null,How about warranty ?,2018-10-12 15:49:51.013445
+72,Chhim,Malin,010503753,malinchhim8@gmail.com,1,Phnom Penh,0,1,null,pi-pay,null,"Please alert us before deadline of payment. 
+",2018-10-13 10:04:14.341594
+73,Nimol,Nimol,0968118479,houthor096@gmail.com,1,phnompenh,0,1,null,pi-pay,null,Support khmer achievement,2018-10-15 06:00:51.009611
+74,567567,567567,01029910,saing.sab@gmail.com,2,65765756,"",2,null,pi-pay,null,sd,2018-10-16 08:26:58.660353
+75,testing,testing,010299109,saing.w@gesting.com,1,BMC,0,1,null,pi-pay,null,s,2018-10-16 09:19:50.48336
+78,Phen,Sokheng,098767728,Sokafire@gmail.com,1,Phnom Penh ,0,1,null,pi-pay,null,"",2018-10-16 10:12:26.766838
+80,SOPHORNARA,ROTH,010401219,nara.acl@gmail.com,01,Phnom Penh,0,1,null,pi-pay,null,"",2018-10-17 01:48:51.313368
+89,SAN,Vuthy,015769941,san.vuthy08@gmail.com,3,PV,2,1,null,pi-pay,None,This is testing,2018-10-17 08:34:29.955537
+90,SAN,Vuthy,015769941,san.vuthy08@gmail.com,1,PV,1,0,null,pi-pay,None,"",2018-10-17 08:37:30.668654
+91,SAN,Vuthy,01576941534,san.vuthy08@gmail.com,4,PV,2,2,null,pi-pay,None,"",2018-10-17 09:12:48.393521
+92,Testing,Vuthy,015769941,san.vuthy08@gmail.com,2,PV,1,1,null,special-financing,null,"",2018-10-18 03:36:09.347258
+93,Sopontara,PICHR,012681568,sopontara@gmail.com,1,Phnom Penh,1,0,null,special-financing,null,"",2018-10-18 11:52:58.579365
+94,Soriya,RIN,081757123,soriyarin@yahoo.com,1,Preyveng,1,0,money-back,cash,null,"",2018-10-19 07:09:48.888322
+98,Sophea,Poch,016340351,sopheapsh@gmail.com,1,Phnom Penh,1,0,null,special-financing,null,good,2018-10-19 08:27:44.387472
+106,SAN,Vuthy,017839759384,san.vuthy08@gmail.com,3,PV,"",3,null,pi-pay,None,"",2018-10-19 18:21:58.644272
+107,David,Meisenhelder,8313325900,meisenhelder@hotmail.com,1,United States,0,1,money-forward,cash,enfants-du-mekong,"Please contact me by email.  I am buying this computer for my friend, Monika Meng, in Phnom Penh.  Please let me know if she can pick up the computer when I have paid for it.  I can wire the money to your bank and I will pay all bank fees including yours.  (I can not see which organizations are for money forward, but I am happy to use it to buy koi drinks for your team.)  Thank you.",2018-10-20 00:35:03.262761
+108,Bunthoeun,SAN,0973636368,johnwickkh@gmail.com,1,Ratanakiri,1,0,null,pi-pay,None,"",2018-10-20 04:11:53.987313
+109,Hy,Sokny,0121979711,hysokny2002@gmail.com,01,Phnom Penh,1,0,null,pi-pay,None,"",2018-10-20 11:06:36.250283
+110,Sokhamony,Thong,093715555,sokhamonythong@gmail.com,1,Phnom Penh,1,0,null,cash,None,"It would be better if i can upgrade CPU, RAM and add Graphic Card",2018-10-20 11:57:22.103451
+111,Damith,Meng,0966871807,mengdamit@gmail.com,1,Phnom Penh,1,0,null,pi-pay,None,Bigger screen up to 15.6inch is better.,2018-10-21 04:57:27.868506
+112,Damith,Meng,0966871807,mengdamit@gmail.com,1,Phnom Penh,1,0,null,pi-pay,None,Bigger screen 15.6 inch is better.,2018-10-21 04:58:28.813755
+113,Visal,Phal ,010224848,ph.visal@yahoo.com,1,Sihanouk Ville,0,1,null,cash,None,I want to 256GB option. ,2018-10-21 07:53:32.390851
+114,Pech,Kosal,012950060,pechkosal@gmail.com,1,Phnom Penh,1,0,null,pi-pay,None,"",2018-10-21 09:00:54.349564
+115,Vladimir,Nodzak,011807804,vladimir@brainchain.dance,2,PP,"",2,null,pi-pay,None,Stay awesome! :),2018-10-21 18:57:36.111957
+116,Loeun,Heng,098787444,hengloeun@gmail.com,1,Phnom Penh,0,1,null,pi-pay,None,"",2018-10-21 22:01:45.082675
+117,San testing,Vuthy,015769941,san.vuthy08@outlook.com,1,Province,1,0,null,pi-pay,None,"",2018-10-22 03:10:57.712376
+118,Test,Test,0987654321,test@email.com,1,PP,1,0,null,pi-pay,None,"",2018-10-22 03:41:45.230673
+119,Somica,Meas,077889970,meassomica@gmail.com,1,Phnom Penhg,0,1,null,pi-pay,None,I would like to order the one with hard disc 256 GB,2018-10-22 03:46:57.595408
+120,test,test,000000000,tester@tester.com,0,cambodia,0,0,null,special-financing,None,just test  no scammer ,2018-10-22 05:30:53.44245
+121,test,test,098000000,test@test.com,1,pp,1,0,null,special-financing,None,test,2018-10-22 05:31:32.32343
+122,Thuy,Yan,963654247,yangvannak1234@gmail.com,1,Phnom Penh,1,0,null,pi-pay,None,"",2018-10-22 09:30:55.392302
+123,Soth ,Diya,086806552,sothdiya8@gmail.com,1,Phnom Penh,1,0,null,pi-pay,None,"",2018-10-23 07:01:06.878538
+158,Senghong,Hour,077511988,hoursenghong@gmail.com,1,Phnom Penh,1,0,null,cash,None,"",2018-10-23 12:40:57.245761
+159,soem,daravong,0765444446,daravong.soem@gmail.com,1,Phnom Penh,0,1,null,cash,None,"",2018-10-24 03:37:13.989884
+160,SOEM,Daravong,0765444446,daravong.soem@gmail.com,1,Phnom Penh,0,1,null,cash,None,More develop for Gaming ok?,2018-10-24 03:39:21.334641
+161,SOEM,Daravong,0765444446,daravong.soem@gmail.com,1,Phnom Penh,0,1,null,cash,None,"",2018-10-24 03:41:13.755909
+165,SAN,Vuthy,015769941,san.vuthy08@gmail.com,2,PV,"",2,null,special-financing,None,"",2018-10-24 04:34:23.805723
+166,Boramey,Tek,077930693,borameytek4848@gmail.com,1,Phnom Penh,1,0,null,pi-pay,None,"",2018-10-24 04:35:48.854257
+167,SAN,Vuthy,0123479879,san.vuthy08@gmail.com,2,PV,"",2,null,special-financing,None,"",2018-10-24 04:36:20.848046
+168,BORAMEY,TEK,077930693,borameytek4848@gmail.com,1,Phnom Penh,1,0,null,pi-pay,None,N/A,2018-10-24 04:36:41.448818

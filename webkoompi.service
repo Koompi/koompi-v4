@@ -1,0 +1,8 @@
+[Unit]
+Description=Webkoompi service
+
+[Service]
+ExecStart=/var/www/koompi.com/koompi/webkoompi.sh
+
+[Install]
+WantedBy=multi-user.target
