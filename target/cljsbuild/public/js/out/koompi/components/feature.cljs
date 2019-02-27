@@ -8,26 +8,25 @@
       [:img {:src "img/feature-koompi-banner1.png" :class "bannerImageFeature"}]
       [:div.featureBannerContent
        [:h2   "Everything You Need " [:br] " Available Here"]
-       [:p "Koompi handpicked software for everyday computing,  net browsing, " [:br] " office suites   
+       [:p "KOOMPI handpicked software for everyday computing,  net browsing, " [:br] " office suites   
                 for productivity, entertainment and more. We believe " [:br] " that the computer should be 
                 simple and free; free in terms of freedom. " [:br] " This is a tool which helps the user 
                 achieve more and learn more."]
        [:p [:i {:class "fas fa-angle-right featureIcon"}] [:i {:class "fas fa-angle-right featureIcon"}] [:a {:href "https://goo.gl/jHSZRL" :target "_blank"} "Learn More"]]]]
      [:div.mobile.only.mobileFeature
       [:h2   "Everything You Need " [:br] " Available Here"]
-      [:p "Koompi handpicked software for everyday computing,  net browsing, " [:br] " office suites   
+      [:p "KOOMPI handpicked software for everyday computing,  net browsing, " [:br] " office suites   
                 for productivity, entertainment and more. We believe " [:br] " that the computer should be 
                 simple and free; free in terms of freedom. " [:br] " This is a tool which helps the user 
                 achieve more and learn more."]
                 [:p [:i {:class "fas fa-angle-right featureIcon"}] [:i {:class "fas fa-angle-right featureIcon"}] [:a.linkColor {:href "https://goo.gl/jHSZRL" :target "_blank"} "Learn More"]]]]]
-   [:div.ui.container
+   [:div.ui.container.containerFeature
     [:div {:class "ui stackable divided grid beautyDetail"}
      [:div {:class "two column row feature-padding"}
       [:div.column.feature-padding-text
        [:img {:src "img/wps.png" :class "smallFeatureImg"}]
        [:p.contentTitle "Office Applications"]
-       [:p "Koompi comes with pre-installed WPS Office Suite, 
-                                     which is the open source for office work developed by Kingsoft."]]
+       [:p "KOOMPI come with pre-installed LibreOffice, which is the open source office suite developed by The Document Foundation. Also it come along with the online MS office suite for desktop, evernote client and other. Aim to generate better daily users experience for computing and digital."]]
       [:div.column.mobile.only
        [:center [:img {:src "img/WPS.png" :class "ui fluid image"}]]]
       [:div.column.mobile.hidden

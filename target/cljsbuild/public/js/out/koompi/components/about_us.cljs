@@ -8,10 +8,11 @@
      [:div {:class "ui divided grid"}
       [:div.row
        [:div.column {:class "aboutPadding"}
-        [:h1 "About Us"]
-        [:p "Koompi is a practical, affordable and effective entry level laptop. It can perform daily tasks for working and schooling. We customized our own operating system called KramaOS, based on well-known open source Linux. Both philosophy and design to fit specifically with Koompi’s hardware. "]
-        [:p "Our mission is to build and provide an affordable and high performance tools to the young generation of ASEAN region and quite possibly the bottom of the pyramid population. "]
-        [:p "We create better everyday user experience to engage more people into computer and digital. It’s is not about the laptop that we sell, it’s about building next generation of engineers, problem solvers and discoverers."]]]]]]
+        [:h2 "Story"]
+        [:p "Begin with an enthusiastic mastermind creator behind the KOOMPI. We come to think that laptop is the bridge to new skills and knowledge. Inspired by គម្ពីរ known as  BOOK OF KNOWLEDGE . KOOMPI also want to be a book full of knowledge to everyone too. So that way. WE ARE BORN."]
+        [:h2 "About Us"]
+        [:p "KOOMPI is a practical, affordable and effective entry level laptop. High-end perform daily tasks for working and schooling. Create with a customized operating system by our own called, KramaOS based on well-known open source Linux. Both philosophy and design fit specifically with KOOMPI’s hardware."]
+        [:p "Generate better daily users experience to engage more people into computing and digital.  Because it here to create the functional environment to let user focus on challenge not a tool itself."]]]]]]
    [:div.ui.container
     [:h1.memberTitle "Team Members"]
     [:div {:class "ui grid"}

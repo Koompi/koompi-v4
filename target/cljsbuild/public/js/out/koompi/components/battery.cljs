@@ -37,5 +37,5 @@
            [:h5.beautyDetailTitle "Battery life"]
            [:h3.beautyDetailDesc "Up to 7h"]]]]]
          [:div {:class  "column"}
-          [:img {:src "img/koompi-beauty-1.jpg" :class "koompiBeautyImg"}]]
+          [:img {:src "img/koompi-battery.png" :class "koompiBattery"}]]
        ]]]]])

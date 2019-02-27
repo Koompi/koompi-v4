@@ -36,9 +36,9 @@
     {:content
      "Koompi, the sleek and lightweight next generation tool offers an experience that’s next to none, combining modest hardware with powerful open-source software. A multi-purpose enabler, Koompi seeks to empower Cambodian youth as the creators and innovators of tomorrow. A packaged functional environment that lets the user focus on the challenges and not on the tools. Powerful yet easy and light enough to carry almost anywhere."
      :name "twitter:description"}]
-   [:meta {:content "img/koompi-banner-1.png", :name "twitter:image"}]
+   [:meta {:content "img/koompi-logo-w-02.svg", :name "twitter:image"}]
         ; Facebook
-   [:meta {:content "img/koompi-banner-1.png", :property "og:image"}]
+   [:meta {:content "img/koompi-logo-w-02.svg", :property "og:image"}]
    [:meta {:content "https://koompi.com/", :property "og:url"}]
    [:meta
     {:content
@@ -49,17 +49,16 @@
      "Koompi, the sleek and lightweight next generation tool offers an experience that’s next to none, combining modest hardware with powerful open-source software. A multi-purpose enabler, Koompi seeks to empower Cambodian youth as the creators and innovators of tomorrow. A packaged functional environment that lets the user focus on the challenges and not on the tools. Powerful yet easy and light enough to carry almost anywhere."
      :property "og:description"}]
 
-   [:link {:rel "icon" :type "image/png" :href "img/koompi-fav-gray.png"}]
+   [:link {:rel "icon" :type "image/svg" :href "img/koompi-logo-w-02.svg"}]
    [:meta {:name "description"
            :content "Koompi, the sleek and lightweight next generation tool offers an experience that’s next to none, combining modest hardware with powerful open-source software. A multi-purpose enabler, Koompi seeks to empower Cambodian youth as the creators and innovators of tomorrow. A packaged functional environment that lets the user focus on the challenges and not on the tools. Powerful yet easy and light enough to carry almost anywhere."}]
    [:meta {:name "keywords"
            :content "computer laptop price in cambodia,beautiful laptop,performance laptop, external hard disk in cambodia,next generation laptop, computer laptop price, khmer online shop, sell computer in cambodia, khmer shop,computer price in cambodia,sell computer in phnom penh, computer second hand shop in cambodia, koompi laptop phnom penh, koompi laptop, koompi computer shop, khmer laptop, laptop price in phnom penh, laptop shopping, sell laptop in cambodia, koompi shop in phnom penh, laptop shop in cambodia, shop sell computer in phnom penh, computer shop in cambodia phnom penh, computer cambodia, laptop computers"}]
-   (include-css (if (env :dev) "/css/site.css" "/css/site.min.css"))
-   (include-css (if (env :dev) "/kpcss/style.css" "/css/site.min.css"))
-   (include-css (if (env :dev) "https://use.fontawesome.com/releases/v5.7.2/css/all.css" "/css/site.min.css"))
-   (include-css (if (env :dev) "/kpcss/semantic.min.css" "/css/site.min.css"))
-   (include-css (if (env :dev) "https://use.fontawesome.com/releases/v5.3.1/css/all.css" "/css/site.min.css"))
-   (include-css (if (env :dev) "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css" "/css/site.min.css"))
+  ;  (include-css (if (env :dev) "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"))
+   (include-css (if (env :dev) "/kpcss/semantic.min.css" "/kpcss/semantic.min.css"))
+   (include-css (if (env :dev) "https://use.fontawesome.com/releases/v5.7.2/css/all.css" ""))
+   (include-css (if (env :dev) "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css" "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css"))
+   (include-css (if (env :dev) "/kpcss/style.css" "/kpcss/style.css"))
    (include-js "/js/index.js")
 ;    Google Analize
    [:script

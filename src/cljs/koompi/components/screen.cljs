@@ -47,5 +47,5 @@
            [:h5.beautyDetailTitle "Screen to body ratio"]
            [:h3.beautyDetailDesc (str "73.44%")]]]]]
          [:div {:class  "column"}
-          [:img {:src "img/koompi-beauty-1.jpg" :class "koompiBeautyImg"}]]
+          [:img {:src "img/screen.png" :class "koompiBeautyImg"}]]
        ]]]]])

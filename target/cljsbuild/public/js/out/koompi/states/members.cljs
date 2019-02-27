@@ -48,7 +48,7 @@
                       :member-05 {:id :member-05
                                   :photo "img/team/panha_you.jpg"
                                   :name "Panha YOU"
-                                  :position "Sale Manager"}
+                                  :position "Sale & Marketing Manager"}
                       :member-08 {:id :member-08
                                   :photo "img/team/brillaint.jpg"
                                   :name "Brilliant PHAL"

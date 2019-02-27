@@ -3,7 +3,7 @@ body {
     font-family: 'Nunito', sans-serif !important;
     font-weight: 300 !important;
 }
-* {
+h1,h2,h3,h4,h5,h6,p,span{
     font-family: 'Nunito', sans-serif !important;
 }
 
@@ -61,6 +61,10 @@ body {
     animation-timing-function: ease-out;
     animation-iteration-count: 1;
     transition: 0.3s;
+}
+.bannerText p{
+    padding: 0px 50px;
+    font-size: 20px;
 }
 
 @keyframes animationMenuFadeIn {
@@ -202,21 +206,17 @@ p:last-child {
 
 .leanMoreBanner a,
 .buyNowBanner a {
-    color: #00c152;
+    color: rgb(0, 174, 255) !important;
     position: relative;
-    top: 30px;
+    top:125px;
     font-size: 20px;
-    font-weight: 600;
+    font-weight: 800;
     transition: 0.3s;
 }
 
 .leanMoreBanner a:hover,
 .buyNowBanner a:hover {
-    color: #f5f5f5;
-    position: relative;
-    top: 30px;
-    font-size: 20px;
-    font-weight: 600;
+    top: 120px;
 }
 
 .controlColor h2,
@@ -374,6 +374,9 @@ h5 {
 .feature-padding-text {
     padding: 8% 0% 0% 8% !important;
 }
+.feature-padding-text p, .feature-padding-text-right p{
+    font-size: 18px;
+}
 
 .feature-margin {
     margin-top: -8% !important;
@@ -387,13 +390,13 @@ h5 {
     position: absolute;
     overflow: hidden;
     top: 45%;
-    left: 34%;
+    left: 35%;
     transform: translate(-50%, -50%);
 }
 
 .contentTitle {
-    font-weight: 400;
-    font-size: 22px;
+    font-weight: 700;
+    font-size: 22px !important;
     margin-top: 15px;
     color: #68757d;
 }
@@ -566,7 +569,7 @@ textarea {
 }
 
 .ui.secondary.menu {
-    padding: 5px 0px;
+    padding: 15px 0px;
 }
 
 .fadeOut.notification {
@@ -580,6 +583,14 @@ textarea {
     position: fixed;
     top: 3px;
     right: 3px;
+}
+.ui.secondary.menu .item{
+    font-weight: 600;
+    font-size: 16px;
+}
+.containerFeature{
+    width: 70% !important;
+    margin:  0px auto;
 }
 
 .koompiModal {
@@ -679,6 +690,9 @@ textarea {
     color: #333 !important;
     margin-left: 20px;
 }
+.featureBannerContent p {
+    font-size: 18px;
+}
 
 .featureBannerContent p a {
     font-weight: 600 !important;
@@ -699,6 +713,16 @@ textarea {
 .koompiSpeedMB {
     font-size: 22px !important;
 }
+p{
+    font-size: 20px !important;
+}
+.koompiBattery{
+    position: relative;
+    top: 30px;
+    width: 100%;
+    right: -95px;
+    transform: scale(1.4);
+}
 
 @keyframes loadingPage {
     0% {
@@ -716,7 +740,7 @@ textarea {
 
 .backgroundAbout {
     background-color: #cfd8dd !important;
-    padding: 20px 0px;
+    padding: 70px 0px;
 }
 
 .backgroundAbout .ui.container p {
@@ -798,8 +822,6 @@ textarea {
         font-size: 28px !important;
         margin: 0px !important;
         padding-top: 0px;
-        color: #00b0ff;
-        font-weight: 500;
         position: relative;
         top: -7px;
 

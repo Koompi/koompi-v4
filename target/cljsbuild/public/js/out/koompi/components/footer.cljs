@@ -7,7 +7,7 @@
     [:p "Copyright © 2018 Koompi. All rights reserved"]
     [:p.brainchild "A brainchild of SmallWorld Venture"]
     [:p.privacy [:a {:href "/privacy"} "Privacy "]
-    ;  [:a {:href ""} " Contact Us"]
+     [:a {:href "/feature"} " Feature"]
      [:a {:href "/about-us"} " About Us"]]
     [:a {:href "https://www.facebook.com/koompi/" :target "_blank" :data-tooltip "Follow us on Facebook"} [:i {:class "fab fa-facebook-f"}]]
     [:a {:href "https://t.me/koompi" :target "_blank" :data-tooltip "Follow us on Telegram"} [:i {:class "fab fa-telegram-plane socailMedia"}]]

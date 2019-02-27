@@ -9,9 +9,9 @@
 (defn menuToggleIcon []
   (if (get-in @menu [:menu])
     [:div.menu.right
-     [:a
-      {:class "item navbarTop menuFadeIn" :href "/feature"}  "Feature"]
-     [:a {:class "item navbarTop menuFadeIn" :href "http://localhost:3449/"} "KRAMAOS"]
+     [:a {:class "item navbarTop menuFadeIn" :href "/feature"}  "Feature"]
+     [:a {:class "item navbarTop menuFadeIn" :href "/about-us"}  "About"]
+    ;  [:a {:class "item navbarTop menuFadeIn" :href "http://localhost:3449/"} "KRAMAOS"]
     ;  [:a {:class "item navbarTop menuFadeIn" :href "/koompi-press-release"} "Press Release"]
      [:div.item [:i {:class "fas fa-times btnAnimationClose" :on-click #(menuToggle)}]]]
     [:div.menu.right
