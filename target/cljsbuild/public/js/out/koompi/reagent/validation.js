@@ -66,7 +66,7 @@ koompi.reagent.validation.valid_number_QMARK_ = (function koompi$reagent$validat
 try{parseFloat(v);
 
 return true;
-}catch (e32532){var e = e32532;
+}catch (e30874){var e = e30874;
 return false;
 }});
 /**
@@ -103,4 +103,4 @@ return and__3938__auto__;
 }
 });
 
-//# sourceMappingURL=validation.js.map?rel=1551156893602
+//# sourceMappingURL=validation.js.map?rel=1551586169370

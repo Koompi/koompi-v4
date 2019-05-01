@@ -23,4 +23,4 @@ koompi.states.state.alertSMS = reagent.core.atom.call(null,new cljs.core.Persist
 koompi.states.state.rose_gold = ((cljs.core.deref.call(null,koompi.states.state.atom_order_number) | (0)) - (cljs.core.deref.call(null,koompi.states.state.gray_num_order) | (0)));
 koompi.states.state.grayColor = ((cljs.core.deref.call(null,koompi.states.state.atom_order_number) | (0)) - (cljs.core.deref.call(null,koompi.states.state.rose_gold_num_order) | (0)));
 
-//# sourceMappingURL=state.js.map?rel=1551156909546
+//# sourceMappingURL=state.js.map?rel=1551586179706

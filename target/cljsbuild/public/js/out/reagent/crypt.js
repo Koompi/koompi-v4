@@ -23,9 +23,9 @@ hasher.update(bytes);
 return hasher.digest();
 });
 reagent.crypt.hash_bytes = (function reagent$crypt$hash_bytes(s,hash_type){
-return reagent.crypt.digest.call(null,(function (){var G__35841 = hash_type;
-var G__35841__$1 = (((G__35841 instanceof cljs.core.Keyword))?G__35841.fqn:null);
-switch (G__35841__$1) {
+return reagent.crypt.digest.call(null,(function (){var G__32900 = hash_type;
+var G__32900__$1 = (((G__32900 instanceof cljs.core.Keyword))?G__32900.fqn:null);
+switch (G__32900__$1) {
 case "md5":
 return (new goog.crypt.Md5());
 
@@ -58,14 +58,14 @@ throw (new Error(["'",cljs.core.str.cljs$core$IFn$_invoke$arity$1(hash_type),"' 
 });
 reagent.crypt.hash = (function reagent$crypt$hash(var_args){
 var args__4534__auto__ = [];
-var len__4531__auto___35850 = arguments.length;
-var i__4532__auto___35851 = (0);
+var len__4531__auto___32909 = arguments.length;
+var i__4532__auto___32910 = (0);
 while(true){
-if((i__4532__auto___35851 < len__4531__auto___35850)){
-args__4534__auto__.push((arguments[i__4532__auto___35851]));
+if((i__4532__auto___32910 < len__4531__auto___32909)){
+args__4534__auto__.push((arguments[i__4532__auto___32910]));
 
-var G__35852 = (i__4532__auto___35851 + (1));
-i__4532__auto___35851 = G__35852;
+var G__32911 = (i__4532__auto___32910 + (1));
+i__4532__auto___32910 = G__32911;
 continue;
 } else {
 }
@@ -76,9 +76,9 @@ var argseq__4535__auto__ = ((((2) < args__4534__auto__.length))?(new cljs.core.I
 return reagent.crypt.hash.cljs$core$IFn$_invoke$arity$variadic((arguments[(0)]),(arguments[(1)]),argseq__4535__auto__);
 });
 
-reagent.crypt.hash.cljs$core$IFn$_invoke$arity$variadic = (function (s,hash_type,p__35846){
-var vec__35847 = p__35846;
-var hex_QMARK_ = cljs.core.nth.call(null,vec__35847,(0),null);
+reagent.crypt.hash.cljs$core$IFn$_invoke$arity$variadic = (function (s,hash_type,p__32905){
+var vec__32906 = p__32905;
+var hex_QMARK_ = cljs.core.nth.call(null,vec__32906,(0),null);
 var hashed = reagent.crypt.hash_bytes.call(null,s,hash_type);
 if(cljs.core.truth_(hex_QMARK_)){
 return reagent.crypt.bytes__GT_hex.call(null,hashed);
@@ -90,14 +90,14 @@ return hashed;
 reagent.crypt.hash.cljs$lang$maxFixedArity = (2);
 
 /** @this {Function} */
-reagent.crypt.hash.cljs$lang$applyTo = (function (seq35843){
-var G__35844 = cljs.core.first.call(null,seq35843);
-var seq35843__$1 = cljs.core.next.call(null,seq35843);
-var G__35845 = cljs.core.first.call(null,seq35843__$1);
-var seq35843__$2 = cljs.core.next.call(null,seq35843__$1);
+reagent.crypt.hash.cljs$lang$applyTo = (function (seq32902){
+var G__32903 = cljs.core.first.call(null,seq32902);
+var seq32902__$1 = cljs.core.next.call(null,seq32902);
+var G__32904 = cljs.core.first.call(null,seq32902__$1);
+var seq32902__$2 = cljs.core.next.call(null,seq32902__$1);
 var self__4518__auto__ = this;
-return self__4518__auto__.cljs$core$IFn$_invoke$arity$variadic(G__35844,G__35845,seq35843__$2);
+return self__4518__auto__.cljs$core$IFn$_invoke$arity$variadic(G__32903,G__32904,seq32902__$2);
 });
 
 
-//# sourceMappingURL=crypt.js.map?rel=1551156911689
+//# sourceMappingURL=crypt.js.map?rel=1551586181418
